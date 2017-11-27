@@ -1,0 +1,181 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  width:1280px;
+  height:90px;
+  background-color: #305973;
+  position: relative;
+  margin: auto;
+}
+.title{
+  width: 266px;
+  height: 33px;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 26px 700px 31px 36px;
+  float: left;
+}
+.About {
+  width: 58px;
+  height: 22px;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 32px 22px 36px 0;
+  float: left;
+}
+.Works {
+  width: 61px;
+  height: 22px;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 32px 22px 36px 0;
+  float: left;
+}
+.Contact {
+  width: 75px;
+  height: 22px;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 32px 22px 36px 0;
+  float: left;
+}
+main{
+  width: 1280px;
+  height: 800px;
+  margin: auto;
+  position:relative;
+}
+/*div of about*/
+.divabout{
+  width: 1280px;
+  height: 550px;
+  background-color: #305973;
+  margin: auto;
+}
+.photo{
+  width: 280px;
+ height: 280px;
+ margin: 135px 96px 135px 159px;
+ float: left;
+}
+.wordAbout{
+  width: 139px;
+  height: 53px;
+  font-family: Arial;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 135px 606px 47px 0;
+  float: left;
+}
+.Ku-Tsung-Ju {
+  width: 588px;
+  height: 180px;
+  font-family:微軟正黑體;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1.67;
+  text-align: left;
+  color: #ef7e56;
+  margin: 0px 159px 135px 533px;
+}
+
+/*div of work*/
+.divWorks{
+  width: 1280px;
+ height: 999px;
+ background-color: #ef7e56;
+ margin: auto;
+}
+.wordWorks{
+  width: 146px;
+  height: 53px;
+  font-family: Arial;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: left;
+  color: #305973;
+  margin: 51px 567px 0 567px;
+  float: left;
+}
+.firstimg{
+  width: 280px;
+  height: 300px;
+  margin: 90px 112px 0 108px;
+  float: left;
+}
+.img{
+  width: 280px;
+  height: 300px;
+  margin: 90px 112px 0 0;
+  float: left;
+}
+.lastimg{
+  width: 280px;
+  height: 300px;
+  margin: 90px 108px 0 0;
+  float: left;
+}
+/*divcontact*/
+.divcontact{
+  width: 1280px;
+  height: 450px;
+  background-color: #305973;
+  margin: auto;
+}
+.wordContact{
+  width: 179px;
+  height: 53px;
+  font-family: Arial;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 81px 550px 0 551px;
+  float: left;
+}
+.fb{
+  width: 120px;
+  height: 120px;
+  margin: 72px 50px 0 410px;
+  float: left;
+}
+.icon{
+  width: 120px;
+  height: 120px;
+  margin: 72px 50px 0 0;
+  float: left;
+}
+footer{
+  width: 1280px;
+  height: 180px;
+  background-color: #676767;
+  margin: auto;
+}
+.Copyright-Charlesk {
+  width: 268px;
+  height: 22px;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #ef7e56;
+  margin: 79px 506px;
+  float: left;
+}
